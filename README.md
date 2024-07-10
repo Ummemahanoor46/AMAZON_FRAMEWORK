@@ -18,6 +18,14 @@ we Git account - to store code
 cucumber-testng
 cucumber-java
 selenium-java
+javafaker
+
+# browser
+Chrome ch
+Firefox ff
+InternetExplorer ie
+Safari  sf
+
 
 # Plugins in IntelliJ
 Cucumber for Java
